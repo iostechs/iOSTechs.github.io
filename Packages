@@ -1,0 +1,15 @@
+Package: com.saurik.phantomforsnapchat
+Version: 4.5.0-3
+Architecture: iphoneos-arm
+Maintainer: iOSTechs <iiostechs@gmail.com>
+Filename: ./debs/com.saurik.phantomforsnapchat_4.5.0-3_iphoneos-arm.deb
+Size: 291116
+MD5sum: 2def87b1b56040808f7183ef138c1f7e
+SHA1: 0d9b57ce4bca84a841396c073aaf358baf51eae4
+SHA256: bbd4fb357b43f85b93ba2acef481443dca7b5edc155b64a43cc8d980c111a677
+Section: Tools
+Homepage: iostechs.github.io
+Description: By CokePokes
+Author: iOSTechs <iiostechs@gmail.com>
+Name: Phantom For Snapchat
+
