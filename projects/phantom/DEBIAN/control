@@ -1,0 +1,9 @@
+Package: com.saurik.phantomforsnapchat
+Name: Phantom For Snapchat
+Version: 4.5.0-3
+Architecture: iphoneos-arm
+Description: By CokePokes
+Homepage: iostechs.github.io
+Maintainer: iOSTechs <iiostechs@gmail.com>
+Author: iOSTechs <iiostechs@gmail.com>
+Section: Tools
